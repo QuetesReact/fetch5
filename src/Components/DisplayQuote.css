@@ -1,0 +1,10 @@
+.GenerateSimpson{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+    color: red;
+
+}
